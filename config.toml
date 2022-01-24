@@ -1,4 +1,4 @@
 baseURL = "https://horizon2006.github.io/horizon/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "ananke"
+theme = "freshstart"
