@@ -1,7 +1,7 @@
-baseURL = "https://horizon2006.github.io/horizon/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "freshstart"
+baseURL: https://horizon2006.github.io/horizon/
+languageCode: en-us
+title: Your site title
+theme: freshStart
 
 params:
   author: Your Name
